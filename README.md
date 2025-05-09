@@ -18,6 +18,25 @@
 <p> hello world! </p>
 ```
 
->[!info] information
+>[!NOTE]
+>information
 >help regarding this file
+
+
+>[!WARNING]
+>HELLO
+
+>[!IMPORTANT]
+>IMPORTANT
+
+>[!CAUTION]
+>CAUTION
+
+>[!TIP]
+>TIP
+
+
+
+
+
 
